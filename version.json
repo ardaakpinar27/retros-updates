@@ -1,10 +1,10 @@
 {
   "latestVersion": "1.0.3",
-  "minimumRequiredVersion": "1.0.0",
-  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/RetrOS1.0.1.exe",
-  "mandatory": false,
-  "title": "Yeni RetrOS güncellemesi mevcut",
+  "title": "RetrOS 1.0.3 Güncellemesi",
+  "downloadUrl": "https://seninsite.com/RetrOS_1.0.3.exe",
   "notes": [
     "Gamepad navigasyonu geliştirildi.",
+    "Bluetooth kontrol sistemi düzeltildi.",
+    "Launcher stabilitesi artırıldı."
   ]
 }
