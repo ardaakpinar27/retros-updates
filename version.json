@@ -1,10 +1,8 @@
 {
-  "latestVersion": "1.0.3",
-  "title": "RetrOS 1.0.3 Güncellemesi",
-  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/RetrOS103.exe",
+  "latestVersion": "1.0.4",
+  "title": "RetrOS 1.0.4 Patch",
+  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_1.0.4.zip",
   "notes": [
-    "Gamepad navigasyonu geliştirildi.",
-    "Bluetooth kontrol sistemi düzeltildi.",
-    "Launcher stabilitesi artırıldı."
+    "Yeni otomatik patch sistemi test ediliyor."
   ]
 }
