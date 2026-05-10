@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.0.4",
-  "title": "RetrOS 1.0.4 Patch",
-  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_1.0.4.zip",
+  "latestVersion": "1.0.5",
+  "title": "RetrOS 1.0.5 Patch",
+  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_1.0.5.zip",
   "notes": [
-    "Yeni otomatik patch sistemi test ediliyor."
+    "Gamepad hataları giderildi."
+    "Yeni oyun eklendi."
   ]
 }
