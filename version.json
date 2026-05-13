@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.5",
-  "title": "RetrOS 1.0.5 Güncellemesi",
-  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_1.0.5.zip",
+  "latestVersion": "1.0.9",
+  "title": "RetrOS 1.0.9 Güncellemesi",
+  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_1.0.9.zip",
   "notes": [
-    "Gamepad kontrol sistemi geliştirildi.",
-    "Bluetooth gamepad stabilitesi artırıldı.",
-    "Menü navigasyon hataları düzeltildi.",
-    "Yeni oyun paketi eklendi.",
-    "Launcher patch sistemi optimize edildi."
+    "Yeni intro eklendi",
+    "Yeni oyun motoru için gerekli son altyapı çalışmaları yapıldı",
+    "Neon tema eklendi",
+    "Ayarlar butonu aktif edildi",
+    "İntro ekranında oyun açma sorunu çözüldü"
   ]
 }
