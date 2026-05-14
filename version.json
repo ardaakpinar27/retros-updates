@@ -1,12 +1,22 @@
+```json
 {
-  "latestVersion": "1.0.9",
-  "title": "RetrOS 1.0.9 Güncellemesi",
-  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_1.0.9.zip",
+  "latestVersion": "2.0.0",
+  "title": "RetrOS 2.0.0 Major Update",
+  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_2.0.0.zip",
+  "mandatory": false,
   "notes": [
-    "Yeni intro eklendi",
-    "Yeni oyun motoru için gerekli son altyapı çalışmaları yapıldı",
-    "Neon tema eklendi",
-    "Ayarlar butonu aktif edildi",
-    "İntro ekranında oyun açma sorunu çözüldü"
+    "Yeni nesil SwanStation oyun motoruna geçiş yapıldı",
+    "Vulkan tabanlı yeni render altyapısı aktif edildi",
+    "Görüntü kalitesi ve upscale sistemi tamamen yenilendi",
+    "Texture artefaktları ve siyah render sorunları büyük ölçüde azaltıldı",
+    "Yeni neon tema ve görsel efekt sistemi eklendi",
+    "Yeni intro sistemi aktif edildi",
+    "Ayarlar sistemi ve gamepad navigasyonu geliştirildi",
+    "Launcher stabilitesi ve input sistemi optimize edildi",
+    "RetrOS altyapısı gelecekteki büyük güncellemeler için hazır hale getirildi",
+    "",
+    "ÖNEMLİ: Güncelleme indirildikten sonra lütfen birkaç dakika bekleyiniz ve uygulamaya müdahale etmeyiniz.",
+    "Kurulum sırasında uygulamanın kapanması veya dosyaların eksik güncellenmesi sistem kararsızlığına neden olabilir."
   ]
 }
+```
