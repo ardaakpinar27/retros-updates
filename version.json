@@ -1,9 +1,17 @@
 {
   "latestVersion": "3.0.0",
-  "title": "RetrOS 2.0.0 Major Update",
-  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_2.0.0.zip",
+  "title": "RetrOS 3.0.0 Güncellemesi",
+  "downloadUrl": "https://filedn.eu/liPnBWWQgeQVeGgdPoPnl8S/patch_3.0.0.zip",
   "mandatory": false,
   "notes": [
     "RetrOS artık oyun içermiyor.",
+    "",
+    "Sürüm 3.0.0 ile gelen yenilikler:",
+    "- Lisans politikası gereği yerleşik oyun içerikleri kaldırıldı.",
+    "- Kullanıcıların kendi ROM dosyalarını tanımlaması için yeni dosya yolu izleme sistemi getirildi.",
+    "- Sistem kararlılığı artırıldı.",
+    "- Arayüz navigasyon hızları optimize edildi.",
+    "",
+    "ÖNEMLİ: Güncelleme sonrası 'data/roms' klasörlerinize kendi oyun dosyalarınızı eklemeyi unutmayınız."
   ]
 }
